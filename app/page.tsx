@@ -8,6 +8,8 @@ export default function Home() {
 
                 <p className="text-gray-300 text-lg">
                     Welcome to my Next.js project 🚀
+                    Willkommen bei meinem Next.js-Projekt 🚀
+                    私のNext.jsプロジェクトへようこそ 🚀
                 </p>
 
                 <div className="mt-6 text-sm text-gray-400">
